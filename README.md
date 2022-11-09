@@ -4,5 +4,5 @@ Real-Time Communication System Powered by AI for Specially Abled
   ABSTRACT :
 </head>
 <body>
-  Realtime comm sys for diff abled
+  Realtime commmunication system powered by AI for specially abled
 </body>

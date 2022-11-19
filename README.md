@@ -1,5 +1,5 @@
 <a>
- <img src="https://i.postimg.cc/26sSR81C/gallery2.png">
+ <img src="https://i.postimg.cc/fy5Nhjk1/gallery.png">
 </a>
 
 <h1 align="center">IBM-PROJECT-32197-1660208557 TEAM ID-PNT2022TMID37239</h1>
